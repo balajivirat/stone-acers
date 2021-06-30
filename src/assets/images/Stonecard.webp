@@ -1,0 +1,1182 @@
+<!DOCTYPE html>
+<!-- saved from url=(0045)https://www.stoneandacres.com/index.html#home -->
+<html lang="en" class="csspositionsticky supports backgroundblendmode objectfit object-fit backgroundcliptext cssfilters cssmask backdropfilter"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">	
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<meta name="theme-color" content="#FFFFFF">	
+	<link rel="shortcut icon" href="https://www.stoneandacres.com/favicon.png">	
+	<title>Stone &amp; Acres - Property Developers</title>
+	<meta name="description" content="Stone &amp; Acres is India’s most transparent and reliable real estate company built to be streamlined and optimised for clients satisfaction.">	
+	<link rel="stylesheet" href="./Stonecard_files/liquid-icon.min.css">
+	<link rel="stylesheet" href="./Stonecard_files/font-awesome.min.css">
+	<link rel="stylesheet" href="./Stonecard_files/icon">
+	<link rel="stylesheet" href="./Stonecard_files/theme-vendors.min.css">
+	<link rel="stylesheet" href="./Stonecard_files/theme.min.css">
+	<link rel="stylesheet" href="./Stonecard_files/original.css">	
+	<!-- Head Libs -->
+	<script async="" src="./Stonecard_files/modernizr.min.js.download"></script>
+	<style>
+	.slider {
+/*  margin: 10px 0;*/
+  width: 100%; /* Update to your slider width */
+  height: 100vh; /* Update to your slider height */
+  position: relative;
+  overflow: hidden;
+}
+
+.slider li {
+  display: none;
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+}
+	</style>	
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./Stonecard_files/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+ 
+  gtag('config', 'G-2R6CH0WLM8');
+</script>
+</head>
+<body data-mobile-nav-trigger-alignment="right" data-mobile-nav-align="left" data-mobile-nav-style="modern" data-mobile-nav-shceme="gray" data-mobile-header-scheme="gray" data-mobile-nav-breakpoint="1199">
+	
+	<div id="wrap">
+	<header class="main-header main-header-overlay" data-react-to-megamenu="true" data-sticky-header="true" data-sticky-options="{ &quot;stickyTrigger&quot;: &quot;first-section&quot; }">
+			
+			<div class="lqd-sticky-placeholder" style="height: 152px;"></div><div class="mainbar-wrap is-stuck">
+				<div class="megamenu-hover-bg"></div><!-- /.megamenu-hover-bg -->
+				<div class="container-fluid mainbar-container">
+					<div class="mainbar">
+						<div class="row mainbar-row align-items-lg-stretch px-4">
+							
+							<div class="col">
+								<div class="navbar-header">
+									<a class="navbar-brand" href="https://www.stoneandacres.com/index.html" rel="home">
+										<span class="navbar-brand-inner">
+											<img class="logo-dark black-logo" src="./Stonecard_files/logo-1.svg" alt="Stone &amp; Acres">
+											<img class="logo-sticky black-logo" src="./Stonecard_files/logo-1.svg" alt="Stone &amp; Acres">
+											<img class="mobile-logo-default black-logo" src="./Stonecard_files/logo-1.svg" alt="Stone &amp; Acres">
+											<img class="logo-default default-logo" src="./Stonecard_files/logo.svg" alt="Stone &amp; Acres">
+										</span>
+									</a>
+									<button type="button" class="navbar-toggle collapsed nav-trigger style-mobile mobile-nav-trigger-cloned" data-toggle="collapse" data-target="#main-header-collapse-clone" aria-expanded="false" data-changeclassnames="{ &quot;html&quot;: &quot;mobile-nav-activated overflow-hidden&quot; }">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="bars">
+											<span class="bar"></span>
+											<span class="bar"></span>
+											<span class="bar"></span>
+										</span>
+									</button>
+								</div><!-- /.navbar-header -->
+							</div><!-- /.col -->
+							
+							<div class="col">
+								
+								<div class="collapse navbar-collapse" id="main-header-collapse"><button type="button" class="navbar-toggle collapsed nav-trigger style-mobile" data-toggle="collapse" data-target="#main-header-collapse" aria-expanded="false" data-changeclassnames="{ &quot;html&quot;: &quot;mobile-nav-activated overflow-hidden&quot; }">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="bars">
+											<span class="bar"></span>
+											<span class="bar"></span>
+											<span class="bar"></span>
+										</span>
+									</button>
+									
+									<ul id="primary-nav" class="main-nav nav align-items-lg-stretch justify-content-lg-center" data-submenu-options="{ &quot;toggleType&quot;:&quot;fade&quot;, &quot;handler&quot;:&quot;mouse-in-out&quot; }" data-localscroll="true">
+										
+										<li class="">
+											<a href="https://www.stoneandacres.com/index.html#home">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Home
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+
+										<li>
+											<a href="https://www.stoneandacres.com/about-us.html">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														About Us
+														<span class="submenu-expander">															
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+										<li class="">
+											<a href="https://www.stoneandacres.com/index.html#projects">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Projects
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+
+										<li>
+											<a href="https://www.stoneandacres.com/services.html">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Services
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+										<li>
+											<a href="https://www.stoneandacres.com/contact.html">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Contact
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+										
+									
+									</ul><!-- /#primary-nav  -->
+								
+								</div><!-- /#main-header-collapse -->
+								
+							</div><!-- /.col -->
+						
+							<div class="col text-right">
+
+								<div class="header-module">
+									<ul class="social-icon social-icon-sm">
+										<li>
+											<a href="https://www.facebook.com/StoneandAcres/" target="_blank"><i class="fa fa-facebook"></i></a>
+										</li>										
+										<li>
+											<a href="https://www.instagram.com/stoneandacres/" target="_blank"><i class="fa fa-instagram"></i></a>
+										</li>
+										<li><a href="tel:+91 9176 441 441"><i class="fa fa-phone"></i></a></li>
+									</ul>
+								</div><!-- /.header-module -->
+								
+							</div><!-- /.col -->
+						
+						</div><!-- /.mainbar-row -->
+					</div><!-- /.mainbar -->
+				</div><!-- /.mainbar-container -->
+			</div><!-- /.mainbar-wrap -->
+			
+		</header><!-- /.main-header -->
+		
+		
+	
+		<main id="content" class="content">
+		
+
+			
+			<section class="vc_row" id="home">
+
+				<span class="row-bg-loader"></span>
+
+				<div class="container-fluid px-0">
+				<div class="carousel-container px-0 carousel-nav-floated carousel-nav-center carousel-nav-middle carousel-nav-md carousel-nav-square carousel-nav-solid carousel-dots-style4">
+											<div class="wrapper">
+											<ul class="slider" id="homepage_slider">
+<!--
+											<li><img src="assets/img/01.jpg" /></li>
+											<li><img src="assets/img/02.jpg" /></li>
+											<li><img src="assets/img/03.jpg" /></li>
+-->
+											<li class="" style="display: list-item; opacity: 0.957621;"><img src="./Stonecard_files/Desktop_banner_1_2_f0b41690a2.jpg"></li><li class="active" style="display: list-item; opacity: 0.0423794;"><img src="./Stonecard_files/Desktop_banner_1_3_ef048ebd68.jpg"></li><li class="" style="display: none;"><img src="./Stonecard_files/Desktop_banner_1_1_4c81629923.jpg"></li></ul>
+											</div>
+
+							</div><!-- /.carousel-container -->
+					
+				</div>
+
+			<div class="lqd-sticky-sentinel invisible pos-abs" style="top: auto; bottom: 152px;"></div></section>
+
+			<section class="vc_row pt-60 pb-60">
+				<div class="container">
+					<div class="row">
+
+						<div class="lqd-column col-md-3 col-sm-6">
+
+							<div class="iconbox iconbox-icon-shadow iconbox-circle iconbox-xl iconbox-heading-sm px-2" id="ld_icon_box_5c496db22efb0" data-animate-icon="true" data-plugin-options="{&quot;resetOnHover&quot;:true,&quot;color&quot;:&quot;rgb(41, 54, 92)&quot;,&quot;hoverColor&quot;:&quot;rgb(255, 255, 255)&quot;}">
+								<div class="iconbox-icon-wrap">
+									<span class="iconbox-icon-container bg-white home-icon">
+										<span class="iconbox-icon-hover-bg bg-gradient-primary-br"></span>
+										<i class="material-icons">campaign</i>
+										<!-- <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"> <g> <rect x="1" y="15" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="54" height="42" /> <polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="11,12 11,7 63,7 63,50 58,50 	" /> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="1" y1="23" x2="55" y2="23" /> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="10" y1="19" x2="6" y2="19" /> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="18" y1="19" x2="14" y2="19" /> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="26" y1="19" x2="22" y2="19" /> </g> </svg> -->
+									</span>
+								</div><!-- /.iconbox-icon-wrap -->
+								<div class="contents">
+									<h3 class="font-weight-semibold">Complete Transparency</h3>
+									<p class="font-size-16 lh-165 text-fade-dark-04">Experience total transparency&nbsp;in all transactions</p>
+								</div>
+
+							</div><!-- /.iconbox -->
+
+						</div><!-- /.col-md-3 col-sm-6 -->
+
+						<div class="lqd-column col-md-3 col-sm-6">
+							
+							<div class="iconbox iconbox-icon-shadow iconbox-circle iconbox-xl iconbox-heading-sm px-2" id="ld_icon_box_5c496db22efb1" data-animate-icon="true" data-plugin-options="{&quot;resetOnHover&quot;:true,&quot;color&quot;:&quot;rgb(41, 54, 92)&quot;,&quot;hoverColor&quot;:&quot;rgb(255, 255, 255)&quot;}">
+								<div class="iconbox-icon-wrap">
+									<span class="iconbox-icon-container bg-white home-icon">
+										<span class="iconbox-icon-hover-bg bg-gradient-primary-br"></span>
+										<i class="material-icons">enhanced_encryption</i>
+										<!-- <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="32" y1="33" x2="32" y2="51" /> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="41" y1="42" x2="23" y2="42" /> <polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="44,18 54,18 54,63 10,63 10,18 20,18 " /> <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M22,24V11c0-5.523,4.477-10,10-10s10,4.477,10,10v13 " /> </svg> -->
+									</span>
+								</div><!-- /.iconbox-icon-wrap -->
+								<div class="contents">
+									<h3 class="font-weight-semibold">Client Commitment</h3>
+									<p class="font-size-16 lh-165 text-fade-dark-04">Hard-wired to deliver only excellent service</p>
+								</div>
+
+							</div><!-- /.iconbox -->
+
+						</div><!-- /.col-md-3 col-sm-6 -->
+
+						<div class="lqd-column col-md-3 col-sm-6">
+
+							<div class="iconbox iconbox-icon-shadow iconbox-circle iconbox-xl iconbox-heading-sm px-2" id="ld_icon_box_5c496db22ef2" data-animate-icon="true" data-plugin-options="{&quot;resetOnHover&quot;:true,&quot;color&quot;:&quot;rgb(41, 54, 92)&quot;,&quot;hoverColor&quot;:&quot;rgb(255, 255, 255)&quot;}">
+								<div class="iconbox-icon-wrap">
+									<span class="iconbox-icon-container bg-white home-icon">
+										<span class="iconbox-icon-hover-bg bg-gradient-primary-br"></span>
+										<i class="material-icons">payments</i>
+										<!-- <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"> <polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="32,47 63,47 63,5 1,5 1,47 18,47 18,59 " /> <polyline fill="none" stroke="#000000" stroke-width="2" stroke-linejoin="bevel" stroke-miterlimit="10" points="23,26 30,33 43,20 " /> </svg> -->
+									</span>
+								</div><!-- /.iconbox-icon-wrap -->
+								<div class="contents">
+									<h3 class="font-weight-semibold">Trouble-free Transactions</h3>
+									<p class="font-size-16 lh-165 text-fade-dark-04">Support for every legal transaction</p>
+								</div>
+
+							</div><!-- /.iconbox -->
+
+						</div><!-- /.col-md-3 col-sm-6 -->
+
+						<div class="lqd-column col-md-3 col-sm-6">
+
+							<div class="iconbox iconbox-icon-shadow iconbox-circle iconbox-xl iconbox-heading-sm px-2" id="ld_icon_box_5c496db22ef3" data-animate-icon="true" data-plugin-options="{&quot;resetOnHover&quot;:true,&quot;color&quot;:&quot;rgb(41, 54, 92)&quot;,&quot;hoverColor&quot;:&quot;rgb(255, 255, 255)&quot;}">
+								<div class="iconbox-icon-wrap">
+									<span class="iconbox-icon-container bg-white home-icon">
+										<span class="iconbox-icon-hover-bg bg-gradient-primary-br"></span>
+										<i class="material-icons">insights</i>
+										<!-- <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve"> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="36" y1="34" x2="41" y2="39" /> <rect x="46.257" y="35.065" transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 120.5036 47.0858)" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="8.485" height="26.87" /> <polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="12,16 18,10 8,4 6,6 " /> <line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="28" y1="26" x2="15" y2="13" /> <path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M58,12.5l-8,3.75l-4-4.125l3.5-8.062l0,0 C39.5,4.062,37,9,37,14v4L3.5,52l-1.75,6l2.125,2l6.062-1.5L44,25h4C53,25,58,22.5,58,12.5L58,12.5z" /> </svg> -->
+									</span>
+								</div><!-- /.iconbox-icon-wrap -->
+								<div class="contents">
+									<h3 class="font-weight-semibold">Gainful Insights</h3>
+									<p class="font-size-16 lh-165 text-fade-dark-04">Real-time real estate guidance</p>
+								</div>
+
+							</div><!-- /.iconbox -->
+
+						</div><!-- /.col-md-3 col-sm-6 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+			
+			<section class="vc_row pt-50 pb-100" id="projects">
+				<div class="container">
+					<div class="row" id="test1">
+
+						<div class="lqd-column col-md-12">
+
+							<header class="fancy-title text-center px-md-7">
+								<h2 class="title h1 mb-2">Projects</h2>
+								<p class="font-size-20 lh-16">Redefining the landscape&nbsp;of traditional realty.</p>
+							</header>
+
+						</div><!-- /.col-md-8 col-md-offset-2 -->
+
+						<div class="lqd-column col-md-12 d-flex flex-wrap" id="content1"><div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid(3)"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="./Stonecard_files/Untitled_1_min_335a368fac.jpg" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">Atmos</h3></div><div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid(9)"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="./Stonecard_files/5_2_9c6448399d.webp" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">Waterway</h3></div><div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid(10)"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="./Stonecard_files/ezgif_com_gif_maker_824bedb457.webp" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">Pristine</h3></div><div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid(11)"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="./Stonecard_files/2_2_b11a66f0ed.webp" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">Fontus</h3></div><div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid(12)"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="./Stonecard_files/4_3_9e107e7798.webp" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">Enclave</h3></div></div><!-- /.col-md-12 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+			
+			<section class="vc_row pt-50 pb-100">
+				<div class="container">
+					<div class="row d-flex flex-wrap align-items-center">
+
+						<div class="lqd-column col-md-5 mb-5 mb-md-0 ca-initvalues-applied perspective lqd-animations-done" data-custom-animations="true" data-ca-options="{&quot;triggerHandler&quot;:&quot;inview&quot;,&quot;animationTarget&quot;:&quot;all-childs&quot;,&quot;duration&quot;:&quot;1200&quot;,&quot;delay&quot;:&quot;150&quot;,&quot;easing&quot;:&quot;easeOutQuint&quot;,&quot;direction&quot;:&quot;forward&quot;,&quot;initValues&quot;:{&quot;translateY&quot;:50,&quot;translateZ&quot;:-156,&quot;rotateX&quot;:-63,&quot;opacity&quot;:0},&quot;animations&quot;:{&quot;translateY&quot;:0,&quot;translateZ&quot;:0,&quot;rotateX&quot;:0,&quot;opacity&quot;:1}}">
+
+							<div class="carousel-container carousel-nav-left carousel-nav-xl carousel-nav-bordered carousel-nav-circle carousel-dots-style1 carousel-nav-border-gray">
+
+								<div class="carousel-items row mx-0 flickity-enabled is-draggable" data-lqd-flickity="{&quot;cellAlign&quot;:&quot;left&quot;,&quot;prevNextButtons&quot;:true,&quot;buttonsAppendTo&quot;:&quot;self&quot;,&quot;pageDots&quot;:false,&quot;groupCells&quot;:true,&quot;wrapAround&quot;:true,&quot;pauseAutoPlayOnHover&quot;:false,&quot;navArrow&quot;:&quot;6&quot;}" tabindex="0">
+
+									<!-- /.carousel-item -->
+
+									<!-- /.carousel-item -->
+
+								<div class="flickity-viewport is-moving" style="height: 502.969px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(-200%);"><div class="carousel-item col-xs-12 px-0 is-selected is-selected-i-1" style="position: absolute; left: 200%;"><div class="carousel-item-inner">
+									<img src="./Stonecard_files/sna_rc.png" style="width: 150px; height:auto; margin-bottom: 30px;">
+										<div class="ld-fancy-heading">
+											<h2 class="mb-25 lh-125 split-text-applied" data-fittext="true" data-fittext-options="{&quot;compressor&quot;:0.85,&quot;maxFontSize&quot;:&quot;50&quot;,&quot;minFontSize&quot;:&quot;32&quot;}" data-split-text="true" data-split-options="{&quot;type&quot;:&quot;lines&quot;}" style="font-size: 50px;">
+												<span class="ld-fh-txt" style=""><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: start; position: relative;"><span data-text="Have a project to " class="split-inner"><span class="split-txt">Have a project to </span></span></div><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: start; position: relative;"><span data-text="sell?" class="split-inner"><span class="split-txt">sell?</span></span></div></span>
+											</h2>
+										</div><!-- /.ld-fancy-heading -->
+
+										<div class="ld-fancy-heading mb-1 mb-md-6">
+											<p class="font-size-20 lh-16 split-text-applied" data-split-text="true" data-split-options="{&quot;type&quot;:&quot;lines&quot;}">
+												<span class="ld-fh-txt" style="color: rgb(103, 103, 103);"><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: start; position: relative;"><span data-text="Don’t look any further. We do A-Z marketing for all " class="split-inner"><span class="split-txt">Don’t look any further. We do A-Z marketing for all </span></span></div><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: start; position: relative;"><span data-text="kinds of real estate projects and we help in " class="split-inner"><span class="split-txt">kinds of real estate projects and we help in </span></span></div><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: start; position: relative;"><span data-text="completing the sale of the project within the " class="split-inner"><span class="split-txt">completing the sale of the project within the </span></span></div><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: start; position: relative;"><span data-text="timeline agreed on." class="split-inner"><span class="split-txt">timeline agreed on.</span></span></div></span>
+											</p>
+										</div><!-- /.ld-fancy-heading -->
+
+									</div></div><div class="carousel-item col-xs-12 px-0" aria-hidden="true" style="position: absolute; left: 100%;"><div class="carousel-item-inner">
+									<img src="./Stonecard_files/sna_rc.png" style="width: 150px; height:auto; margin-bottom: 30px;">
+										<div class="ld-fancy-heading">
+											<h2 class="mb-25 lh-125" data-fittext="true" data-fittext-options="{&quot;compressor&quot;:0.85,&quot;maxFontSize&quot;:&quot;50&quot;,&quot;minFontSize&quot;:&quot;32&quot;}" style="font-size: 50px;">
+												<span class="ld-fh-txt">Need expert inputs and key insights?</span>
+											</h2>
+										</div><!-- /.ld-fancy-heading -->
+
+										<div class="ld-fancy-heading mb-1 mb-md-6">
+											<p class="font-size-20 lh-16">
+												<span class="ld-fh-txt" style="color: #676767;">Stone &amp; Acres helps you in gauging the market and making the rights decision.</span>
+											</p>
+										</div><!-- /.ld-fancy-heading -->
+
+									</div></div></div></div><div class="carousel-nav"><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous"><svg width="17" height="17" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <line fill="none" stroke-width="2" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line> <polyline transform="rotate(180 5.634945869445801,12) " fill="none" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="2.1349482387304306,5 9.134950384497643,12 2.1349482387304306,19 "></polyline> </svg></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next"><svg width="17" height="17" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"> <line fill="none" stroke-width="2" stroke-miterlimit="10" x1="2" y1="12" x2="22" y2="12"></line> <polyline fill="none" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="15,5 22,12 15,19 "></polyline> </svg></button></div></div><!-- /.carousel-items -->
+
+							</div><!-- /.carousel-container -->
+
+						</div><!-- /.col-md-5 -->
+
+						<div class="lqd-column col-md-7">
+
+							<div class="liquid-img-group-container stretch-to-right pl-md-7 ml-md-5">
+								<div class="liquid-img-group-inner">
+									<div class="liquid-img-group-single is-in-view" data-shadow-style="3" data-roundness="8" data-inview="true" data-animate-shadow="true" data-inview-options="{&quot;delayTime&quot;:600}">
+
+										<div class="liquid-img-group-img-container">
+											<div class="liquid-img-container-inner">
+												<figure>
+													<img src="./Stonecard_files/banner-1.jpg" alt="Banner">
+												</figure>
+											</div><!-- /.liquid-img-container-inner -->
+
+										</div><!-- /.liquid-img-group-img-container -->
+
+									</div><!-- /.liquid-img-group-single -->
+								</div><!-- /.liquid-img-group-inner -->
+							</div><!-- /.liquid-img-group-container -->
+
+						</div><!-- /.col-md-7 -->
+						
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+
+			<section class="vc_row pt-50 pb-50">
+				<div class="container">
+					<div class="row d-flex flex-wrap align-items-center">
+
+						<div class="lqd-column col-md-6">
+
+							<div class="lqd-frickin-img is-in-view" data-inview="true" data-inview-options="{ &quot;delayTime&quot;: 250, &quot;threshold&quot;: 0.75 }">
+								<div class="lqd-frickin-img-inner">
+									<span class="lqd-frickin-img-bg bg-gradient-primary-tl"></span>
+									<div class="lqd-frickin-img-holder">
+										<figure data-responsive-bg="true" class="loaded" style="background-image: url(&quot;https://www.stoneandacres.com/assets/img/section-image-1.jpg&quot;);">
+											<img src="./Stonecard_files/section-image-1.jpg" alt="Huge Template Collection">
+										</figure>
+									</div><!-- /.lqd-frickin-img-holder -->
+								</div><!-- /.lqd-frickin-img-inner -->
+							</div><!-- /.lqd-frickin-img -->
+
+						</div><!-- /.col-md-6 -->
+
+						<div class="lqd-column col-md-5 col-md-offset-1 ca-initvalues-applied lqd-animations-done" data-custom-animations="true" data-ca-options="{&quot;triggerHandler&quot;:&quot;inview&quot;,&quot;animationTarget&quot;:&quot;all-childs&quot;,&quot;duration&quot;:&quot;1200&quot;,&quot;startDelay&quot;:&quot;400&quot;,&quot;delay&quot;:&quot;150&quot;,&quot;easing&quot;:&quot;easeOutQuint&quot;,&quot;direction&quot;:&quot;forward&quot;,&quot;initValues&quot;:{&quot;translateX&quot;:-44,&quot;opacity&quot;:0},&quot;animations&quot;:{&quot;translateX&quot;:0,&quot;opacity&quot;:1}}">
+
+							<header class="fancy-title">
+								<h2 class="title h1 mb-4 lqd-unit-animation-done" style="transform: translateX(0px); opacity: 1;">About Us</h2>
+								<p class="font-size-20 lh-16 lqd-unit-animation-done" style="transform: translateX(0px); opacity: 1;">With in-depth knowledge of the real estate industry, Stone &amp; Acres is poised to carve out a niche for itself as one of India’s most transparent and reliable real estate companies.</p>
+							</header>
+
+							<a href="https://www.stoneandacres.com/about-us.html" class="btn btn-solid btn-sm semi-round btn-gradient px-3 lqd-unit-animation-done" style="opacity: 1;">
+								<span>
+									<span class="btn-gradient-bg"></span>
+									<span class="btn-txt">Read More</span>
+									<span class="btn-gradient-bg btn-gradient-bg-hover"></span>
+								</span>
+							</a>
+
+							<a href="https://www.stoneandacres.com/contact.html" class="btn btn-default btn-sm semi-round btn-bordered border-thin btn-light px-3 lqd-unit-animation-done" style="opacity: 1;">
+								<span>
+									<span class="btn-txt">Contact Us</span>
+								</span>
+							</a>
+
+						</div><!-- /.col-md-5 col-md-offset-1 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+
+			<section class="vc_row pt-90 pb-55 mt-60 bg-cover" style="background-image: url(./assets/img/bg-2.jpg);">
+				<div class="container">
+					<div class="row">
+
+						<div class="lqd-column col-md-12 text-center">
+
+								<div class="ld-fancy-heading text-uppercase mb-45">
+									<h6 class="font-size-16 ltr-sp-2"><span class="ld-fh-txt text-white">Real Stories</span></h6>
+								</div><!-- /.ld-fancy-heading -->
+
+						</div><!-- /.col-md-12 -->
+
+						<div class="lqd-column col-md-8 col-md-offset-2">
+
+							<div class="carousel-container carousel-nav-floated carousel-nav-center carousel-nav-middle carousel-nav-xl carousel-nav-bordered carousel-nav-circle carousel-nav-light carousel-dots-style1">
+
+								<div class="carousel-items row flickity-enabled is-draggable" data-lqd-flickity="{ &quot;cellAlign&quot;:&quot;center&quot;,&quot;prevNextButtons&quot;:true,&quot;buttonsAppendTo&quot;:&quot;self&quot;,&quot;pageDots&quot;:false,&quot;groupCells&quot;:true,&quot;wrapAround&quot;:true,&quot;pauseAutoPlayOnHover&quot;:false,&quot;navArrow&quot;:{&quot;prev&quot;:&quot;&lt;i class=\&quot;fa fa-angle-left\&quot;&gt;&lt;/i&gt;&quot;,&quot;next&quot;:&quot;&lt;i class=\&quot;fa fa-angle-right\&quot;&gt;&lt;/i&gt;&quot;},&quot;navOffsets&quot;:{&quot;prev&quot;:&quot;-100px&quot;,&quot;next&quot;:&quot;-100px&quot;}}" tabindex="0">
+									
+									<!-- /.carousel-item -->
+									
+									<!-- /.carousel-item -->
+
+									<!-- /.carousel-item -->
+
+									<!-- /.carousel-item -->
+
+									<!-- /.carousel-item -->
+
+									<!-- /.carousel-item -->
+
+									<!-- /.carousel-item -->
+
+
+									<!-- /.carousel-item -->
+
+								<div class="flickity-viewport is-moving" style="height: 747px; touch-action: pan-y;"><div class="flickity-slider" style="left: 0px; transform: translateX(0%);"><div class="carousel-item col-xs-12 is-selected is-selected-i-1" style="position: absolute; left: 0%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“The land spread across acres with serenity shows the meticulous way of hard work each of the team exhibited. Among numerous projects, I have searched for I have ended up in this God-blessed place. Investing huge amount and sometimes even a fortune worth every penny here, morally and economically. The location of the project and connectivity to IT hubs and schools are much satisfactory. They say "Don’t judge the book by its cover", sometimes it stands opposite, their brochure or website details match exact reality.”
+													</span>
+													</p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/nithya.jpg" alt="image1">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">NITHYA</h5>													
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 100%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“I was impressed with the professional response from the entire ATMOS team from Stone and Acres all through the deal. <br>
+														There are plots in proximity cheaper than ATMOS, but I felt that this is a good buy considering. <br>
+														- The 100 acres gated community with 24/7 security ensuring safety for the residences. <br>
+														- ATMOS is just a few hundred meters from Ponmar Junction. <br>
+														- A very Peaceful, Greenery and Lovely place to live. <br>
+														- Well laid underground electric cables ensuring zero risks.<br>
+														Ponmar is a developing area surrounded by plenty of schools and colleges, with public transportation and easy accessibility to key places around GST Road, OMR and Medavakkam.”
+													</span>
+													</p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/bala.jpg" alt="image1">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">BALA SUBRAMANIAN</h5>													
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 200%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“Being apprehensive initially about buying land in Ponmar, my mind was put to ease when I saw the professionalism in the SA team. 
+														Everything was explained in detail and clarified which made it easier for us to choose the right plot in Ponmar.”
+													</span>
+													</p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/testi-1.jpg" alt="image1">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">DR. JAYARAMACHANDRAN SOLAIMALAICHAMI</h5>
+													<h5 class="text-white">Associate Professor of Community Medicine, Sri Venkateswaraa Medical College Hospital and Research Centre, Puducherry.</h5>
+													<h6 class="font-weight-normal">Atmos Plot Owner</h6>
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 300%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“Really appreciate the professionalism of the Stone and Acres team. From helping us to choose the right plot to the registration process, we got all the support we need.”
+													</span></p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/testi-2.jpg" alt="image2">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">DR. DHIVYA POWNRAJ</h5>
+													<h5 class="text-white">Associate Professor of General Medicine, Pondicherry Institute of Medical Sciences, Puducherry</h5>
+													<h6 class="font-weight-normal">Atmos Plot Owner</h6>
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 400%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“It was so convenient to deal with Stone and Acres property developers. 
+														They were transparent and patiently answered all our queries regarding the plot at Waterway. Their delivery time is certainly to be commended.”
+													</span></p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/testi-3.jpg" alt="image2">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">JOHNSON EDWARD</h5>
+													<h5 class="text-white">Senior Manager (Projects), Cognizant Technology Solutions</h5>
+													<h6 class="font-weight-normal">Waterway Plot Owner</h6>
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 500%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“One of the main reasons we chose to go ahead and buy a plot at Fontus is because of the security and infrastructure provided by Stone &amp; Acres. 
+														Their standards are very high and they took extra efforts to see that we are getting the right plot for our home.”
+													</span></p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/testi-4.jpg" alt="image2">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">PANDIYAN REGUNATHAN</h5>
+													<h5 class="text-white">Assistant Manager (Technical), Sify Technologies</h5>
+													<h6 class="font-weight-normal">Fontus Plot Owner</h6>
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 600%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“Dealing with SA was very easy for us as they made it the whole land buying process very convenient. 
+														They followed up with us regularly and ensured that we have a good experience while purchasing the land from them.”
+													</span></p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/testi-5.jpg" alt="image2">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">VINAYAKA RAM GURURAJAN</h5>
+													<h5 class="text-white">Consultant, TCS</h5>
+													<h6 class="font-weight-normal">Fontus Plot Owner</h6>
+												</div>
+											</div>
+										</div>
+
+									</div></div><div class="carousel-item col-xs-12" aria-hidden="true" style="position: absolute; left: 700%;"><div class="carousel-item-inner">
+
+										<div class="testimonial testimonial-xl text-center testimonial-details-sm testimonial-avatar-sm">
+											<div class="testimonial-quote">
+												<blockquote>
+													<p>
+													<span style="font-size: 24px; line-height: 43px; color: #ffffff;">
+														“Their knowledge of the Ponmar Area was of huge value and they responded to all our queries patiently. 
+														We found that they keep a client’s best interests in sharp focus.”
+													</span></p>
+												</blockquote>
+											</div>
+											<div class="testimonial-details">
+												<figure class="avatar ">
+													<img src="./Stonecard_files/testi-6.jpg" alt="image2">
+												</figure>
+												<div class="testimonial-info">
+													<h5 class="text-white">AJAY RANGANATHAN MOHAN KUMAR</h5>
+													<h5 class="text-white">Mechanical Engineer, Gulf Spic General Trading &amp; Contracting W.L.L, Kuwait</h5>
+													<h6 class="font-weight-normal">Waterway Plot Owner</h6>
+												</div>
+											</div>
+										</div>
+
+									</div></div></div></div><div class="carousel-nav"><button class="flickity-button flickity-prev-next-button previous" type="button" aria-label="Previous" style="left: -100px;"><i class="fa fa-angle-left"></i></button><button class="flickity-button flickity-prev-next-button next" type="button" aria-label="Next" style="right: -100px;"><i class="fa fa-angle-right"></i></button></div></div><!-- /.carousel-items -->
+
+							</div><!-- /.carousel-container -->
+
+						</div><!-- /.col-md-12 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+			<section class="vc_row pt-50 pb-20 mb-50 bb-light">
+				<div class="container">
+					<div class="row">
+
+						<div class="lqd-column col-md-4 col-sm-6 text-center">
+
+							<div class="liquid-counter liquid-counter-default liquid-counter-md liquid-counter-has-hover-gradient">
+
+								<div class="liquid-counter-element text-black counter-animated" data-enable-counter="true" data-counter-options="{ &quot;targetNumber&quot;: &quot;9&quot;, &quot;blurEffect&quot;: true }">
+									<div class="liquid-counter-element liquid-counter-element-static">
+										<span>9</span>
+									</div><!-- /.liquid-counter-element -->
+									<div class="liquid-counter-element liquid-counter-element-hover">
+										<span>9</span>
+									</div><!-- /.liquid-counter-element -->
+									<span><span class="liquid-counter-animator"><span class="liquid-animator-value">9</span><div class="liquid-animator-numbers" data-value="9"><ul style="transform: translateY(-90%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span></span>
+								</div><!-- /.liquid-counter-element -->
+								<span class="liquid-counter-text liquid-text-bottom text-uppercase ltr-sp-2 text-black font-size-14">
+									Projects
+								</span>
+								
+							</div><!-- /.liquid-counter liquid-counter-huge -->
+
+						</div><!-- /.col-md-3 -->
+
+						<div class="lqd-column col-md-4 col-sm-6 text-center">
+
+							<div class="liquid-counter liquid-counter-default liquid-counter-md liquid-counter-has-hover-gradient">
+
+								<div class="liquid-counter-element text-black counter-animated" data-enable-counter="true" data-counter-options="{ &quot;targetNumber&quot;: &quot;836&quot;, &quot;blurEffect&quot;: true, &quot;startDelay&quot;: 150 }">
+									<div class="liquid-counter-element liquid-counter-element-static">
+										<span>836</span>
+									</div><!-- /.liquid-counter-element -->
+									<div class="liquid-counter-element liquid-counter-element-hover">
+										<span>836</span>
+									</div><!-- /.liquid-counter-element -->
+									<span><span class="liquid-counter-animator"><span class="liquid-animator-value">8</span><div class="liquid-animator-numbers" data-value="8"><ul style="transform: translateY(-80%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span><span class="liquid-counter-animator"><span class="liquid-animator-value">3</span><div class="liquid-animator-numbers" data-value="3"><ul style="transform: translateY(-30%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span><span class="liquid-counter-animator"><span class="liquid-animator-value">6</span><div class="liquid-animator-numbers" data-value="6"><ul style="transform: translateY(-60%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span></span>
+								</div><!-- /.liquid-counter-element -->
+								<span class="liquid-counter-text liquid-text-bottom text-uppercase ltr-sp-2 text-black font-size-14">
+									Happy Clients
+								</span>
+								
+							</div><!-- /.liquid-counter liquid-counter-huge -->
+
+						</div><!-- /.col-md-3 -->
+
+						<div class="lqd-column col-md-4 col-sm-6 text-center">
+
+							<div class="liquid-counter liquid-counter-default liquid-counter-md liquid-counter-has-hover-gradient">
+
+								<div class="liquid-counter-element text-black counter-animated" data-enable-counter="true" data-counter-options="{ &quot;targetNumber&quot;: &quot;1128&quot;, &quot;blurEffect&quot;: true, &quot;startDelay&quot;: 300 }">
+									<div class="liquid-counter-element liquid-counter-element-static">
+										<span>1128</span>
+									</div><!-- /.liquid-counter-element -->
+									<div class="liquid-counter-element liquid-counter-element-hover">
+										<span>1128</span>
+									</div><!-- /.liquid-counter-element -->
+									<span><span class="liquid-counter-animator"><span class="liquid-animator-value">1</span><div class="liquid-animator-numbers" data-value="1"><ul style="transform: translateY(-10%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span><span class="liquid-counter-animator"><span class="liquid-animator-value">1</span><div class="liquid-animator-numbers" data-value="1"><ul style="transform: translateY(-10%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span><span class="liquid-counter-animator"><span class="liquid-animator-value">2</span><div class="liquid-animator-numbers" data-value="2"><ul style="transform: translateY(-20%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span><span class="liquid-counter-animator"><span class="liquid-animator-value">8</span><div class="liquid-animator-numbers" data-value="8"><ul style="transform: translateY(-80%);"><li>0</li><li>1</li><li>2</li><li>3</li><li>4</li><li>5</li><li>6</li><li>7</li><li>8</li><li>9</li></ul></div></span></span>
+								</div><!-- /.liquid-counter-element -->
+								<span class="liquid-counter-text liquid-text-bottom text-uppercase ltr-sp-2 text-black font-size-14">
+									Successful Transactions
+								</span>
+								
+							</div><!-- /.liquid-counter liquid-counter-huge -->
+
+						</div><!-- /.col-md-3 -->
+
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+
+			
+			<section class="vc_row pt-70 pb-70 bg-cover mb-view bg-none liquid-parallax-bg" style="background-image: url(./assets/img/bg-2.jpg);" data-parallax="true" data-parallax-options="{&quot;parallaxBG&quot;: true}"><div class="liquid-parallax-container"><figure class="liquid-parallax-figure" style="height: 140%; background-image: url(&quot;https://www.stoneandacres.com/assets/img/bg-2.jpg&quot;); background-position: 0% 0%; transform: translateY(-30%);"></figure></div>
+				<div class="container">
+					<div class="row d-md-flex align-items-center">
+
+						<div class="lqd-column col-md-8">
+
+							<div class="ld-fancy-heading text-underline">
+								<h2 class="text-white mb-0 ca-initvalues-applied lqd-animations-done split-text-applied" data-fittext="true" data-fittext-options="{&quot;compressor&quot;:0.55,&quot;maxFontSize&quot;:&quot;50&quot;,&quot;minFontSize&quot;:&quot;35&quot;}" data-split-text="true" data-custom-animations="true" data-ca-options="{&quot;triggerHandler&quot;:&quot;inview&quot;,&quot;animationTarget&quot;:&quot;.split-inner&quot;,&quot;duration&quot;:&quot;1200&quot;,&quot;delay&quot;:&quot;35&quot;,&quot;easing&quot;:&quot;easeOutQuint&quot;,&quot;direction&quot;:&quot;forward&quot;,&quot;initValues&quot;:{&quot;translateX&quot;:2,&quot;translateY&quot;:12,&quot;rotateZ&quot;:6,&quot;opacity&quot;:0},&quot;animations&quot;:{&quot;translateX&quot;:0,&quot;translateY&quot;:0,&quot;rotateZ&quot;:0,&quot;opacity&quot;:1}}" data-split-options="{&quot;type&quot;:&quot;chars, words&quot;}" style="font-size: 50px;">
+									<span class="ld-fh-txt"><div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="Ready" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="R" class="split-inner"><span class="split-txt">R</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="e" class="split-inner"><span class="split-txt">e</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="a" class="split-inner"><span class="split-txt">a</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="d" class="split-inner"><span class="split-txt">d</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="y" class="split-inner"><span class="split-txt">y</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="to" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="o" class="split-inner"><span class="split-txt">o</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="get" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="g" class="split-inner"><span class="split-txt">g</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="e" class="split-inner"><span class="split-txt">e</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="started?" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="s" class="split-inner"><span class="split-txt">s</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="a" class="split-inner"><span class="split-txt">a</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="r" class="split-inner"><span class="split-txt">r</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="e" class="split-inner"><span class="split-txt">e</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="d" class="split-inner"><span class="split-txt">d</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="?" class="split-inner"><span class="split-txt">?</span></span></div></span></span></div><br>
+										<span style="color: #ffafa2"><div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="Join" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="J" class="split-inner"><span class="split-txt">J</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="o" class="split-inner"><span class="split-txt">o</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="i" class="split-inner"><span class="split-txt">i</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="n" class="split-inner"><span class="split-txt">n</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="the" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="h" class="split-inner"><span class="split-txt">h</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="e" class="split-inner"><span class="split-txt">e</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="Stone" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="S" class="split-inner"><span class="split-txt">S</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="o" class="split-inner"><span class="split-txt">o</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="n" class="split-inner"><span class="split-txt">n</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="e" class="split-inner"><span class="split-txt">e</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="&amp;" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="&amp;" class="split-inner"><span class="split-txt">&amp;</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="Acres" class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="A" class="split-inner"><span class="split-txt">A</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="c" class="split-inner"><span class="split-txt">c</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="r" class="split-inner"><span class="split-txt">r</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="e" class="split-inner"><span class="split-txt">e</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="s" class="split-inner"><span class="split-txt">s</span></span></div></span></span></div> <div style="position:relative;display:inline-block;" class="lqd-words split-unit lqd-unit-animation-done"><span data-text="community." class="split-inner"><span class="split-txt"><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="c" class="split-inner"><span class="split-txt">c</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="o" class="split-inner"><span class="split-txt">o</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="m" class="split-inner"><span class="split-txt">m</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="m" class="split-inner"><span class="split-txt">m</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="u" class="split-inner"><span class="split-txt">u</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="n" class="split-inner"><span class="split-txt">n</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="i" class="split-inner"><span class="split-txt">i</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="t" class="split-inner"><span class="split-txt">t</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="y" class="split-inner"><span class="split-txt">y</span></span></div><div style="position:relative;display:inline-block;" class="lqd-chars split-unit lqd-unit-animation-done"><span data-text="." class="split-inner"><span class="split-txt">.</span></span></div></span></span></div></span>
+									</span>
+								</h2>
+							</div><!-- /.ld-fancy-heading -->
+
+						</div><!-- /.col-md-8 -->
+
+						<div class="lqd-column col-md-3 col-md-offset-1 text-center">
+							
+							<a href="https://www.stoneandacres.com/contact.html" class="btn btn-solid btn-sm semi-round btn-gradient px-3 btn-block" data-localscroll="true" data-localscroll-options="{&quot;scrollBelowSection&quot;: true}">
+								<span>
+									<span class="btn-gradient-bg"></span>
+									<span class="btn-txt">Send an Enquiry</span>
+									<span class="btn-gradient-bg btn-gradient-bg-hover"></span>
+								</span>
+							</a>
+
+							<div class="ld-fancy-heading mt-3">
+								<p class="text-white opacity-07 mb-0 ca-initvalues-applied lqd-animations-done split-text-applied" data-split-text="true" data-custom-animations="true" data-ca-options="{&quot;triggerHandler&quot;:&quot;inview&quot;,&quot;animationTarget&quot;:&quot;.split-inner&quot;,&quot;duration&quot;:700,&quot;delay&quot;:100,&quot;easing&quot;:&quot;easeOutQuint&quot;,&quot;direction&quot;:&quot;forward&quot;,&quot;initValues&quot;:{&quot;scale&quot;:1},&quot;animations&quot;:{&quot;scale&quot;:1}}" data-split-options="{&quot;type&quot;:&quot;lines&quot;}">
+									<span class="ld-fh-txt" style=""><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: center; position: relative;"><span data-text=" Do you have a question?" class="split-inner"><span class="split-txt"> Do you have a question?</span></span></div><div class="lqd-lines split-unit lqd-unit-animation-done" style="display: block; text-align: center; position: relative;"><span data-text=" Ask here." class="split-inner"><span class="split-txt"> Ask here.</span></span></div></span>
+								</p>
+							</div><!-- /.ld-fancy-heading -->
+
+						</div><!-- /.col-md-3 -->
+
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+			
+		</main><!-- /#content.content -->
+		
+		<div class="lqd-sticky-footer-wrap"><div class="lqd-sticky-footer-sentinel height-applied" style="height: 479px;"></div><footer class="main-footer bg-charade pt-70 footer-stuck" data-sticky-footer="true">
+
+			<section>
+
+				<div class="container">
+					<div class="row">
+		
+						<div class="lqd-column col-md-4 col-sm-6">
+		
+							<h3 class="widget-title text-white">Projects</h3>
+							<ul class="lqd-custom-menu reset-ul text-white" id="projectlist"><li><a href="https://www.stoneandacres.com/index.html#" onclick="getid(3)">Atmos</a></li><li><a href="https://www.stoneandacres.com/index.html#" onclick="getid(9)">Waterway</a></li><li><a href="https://www.stoneandacres.com/index.html#" onclick="getid(10)">Pristine</a></li><li><a href="https://www.stoneandacres.com/index.html#" onclick="getid(11)">Fontus</a></li><li><a href="https://www.stoneandacres.com/index.html#" onclick="getid(12)">Enclave</a></li></ul>
+		
+						</div>
+		
+						
+		
+						<div class="lqd-column col-md-4 col-sm-6">
+		
+							<h3 class="widget-title text-white">Get in Touch</h3>						
+							<p>
+								<a href="mailto:contact@stoneandacres.com">contact@stoneandacres.com</a>
+								<br>
+								Stone &amp; Acres Property Developers
+								<br>
+								78/2(138/2), L.B Road, Thiruvanmiyur,
+								<br>
+								Chennai 600 041
+								<br>
+								<a href="tel:+91 9176 441 441">+91 9176 441 441</a>														
+							</p>
+		
+						</div><!-- /.col-md-3 col-sm-6 -->
+		
+						<div class="lqd-column col-md-4 col-sm-6">
+		
+							<h3 class="widget-title text-white">Connect with Us</h3>
+							<ul class="social-icon social-icon-md">
+								<li><a href="https://www.facebook.com/StoneandAcres/"><i class="fa fa-facebook"></i></a></li>								
+								<li><a href="https://www.instagram.com/stoneandacres/"><i class="fa fa-instagram"></i></a></li>
+								<li><a href="tel:+91 9176 441 441"><i class="fa fa-phone"></i></a></li>
+							</ul>	
+					
+		
+						</div><!-- /.col-md-3 col-sm-6 -->
+		
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+
+			</section>
+
+			<section class="bt-fade-white-015 pt-35 pb-35 mt-50">
+				<div class="container">
+					<div class="row">
+					
+						<div class="yourstore-band lqd-column col-md-6">
+						<div class="yourstore-inner">
+						<div class="d-flex justify-content-md-start align-items-center px-0">
+						<a href="https://bdcode.in/" target="_blank" class="yourstore-text d-flex align-items-center"><span class="col-9 px-0 float-left band-txt">Website design by</span><span class="col-3 px-0 float-right"><img src="./Stonecard_files/bdcode-logo-white.svg" alt="Yourstore ecommerce platform" class="yourstore-logo band-txt"></span></a>
+						</div>
+						</div>
+						</div>						
+		
+						<div class="lqd-column col-md-6 text-md-right">
+							<p class="my-0"><span style="font-size: 15px;">© 2020 Stone and Acres Property Developers LLP. All Rights Reserved.</span></p>
+						</div><!-- /.col-md-6 text-md-right -->
+		
+					</div><!-- /.row -->
+				</div><!-- /.container -->
+			</section>
+			
+		</footer></div><!-- /.main-footer -->
+	
+</div><div class="collapse navbar-collapse navbar-collapse-clone" id="main-header-collapse-clone" aria-expanded="false"><button type="button" class="navbar-toggle collapsed nav-trigger style-mobile" data-toggle="collapse" data-target="#main-header-collapse-clone" aria-expanded="false" data-changeclassnames="{ &quot;html&quot;: &quot;mobile-nav-activated overflow-hidden&quot; }">
+										<span class="sr-only">Toggle navigation</span>
+										<span class="bars">
+											<span class="bar"></span>
+											<span class="bar"></span>
+											<span class="bar"></span>
+										</span>
+									</button>
+									
+									<div class="navbar-collapse-inner"><ul id="primary-nav" class="main-nav nav align-items-lg-stretch justify-content-lg-center" data-submenu-options="{ &quot;toggleType&quot;:&quot;fade&quot;, &quot;handler&quot;:&quot;mouse-in-out&quot; }" data-localscroll="true">
+										
+										<li class="">
+											<a href="https://www.stoneandacres.com/index.html#home">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Home
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+
+										<li>
+											<a href="https://www.stoneandacres.com/about-us.html">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														About Us
+														<span class="submenu-expander">															
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+										<li class="">
+											<a href="https://www.stoneandacres.com/index.html#projects">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Projects
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+
+										<li>
+											<a href="https://www.stoneandacres.com/services.html">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Services
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+
+										<li>
+											<a href="https://www.stoneandacres.com/contact.html">
+												<span class="link-icon"></span>
+												<span class="link-txt">
+													<span class="link-ext"></span>
+													<span class="txt">
+														Contact
+														<span class="submenu-expander">
+															<i class="material-icons">keyboard_arrow_down</i>
+														</span>
+													</span>
+												</span>
+											</a>
+										</li>
+										
+									
+									</ul></div><!-- /#primary-nav  -->
+								
+								</div><!-- /#wrap -->
+
+<script src="./Stonecard_files/jquery.min.js.download"></script>
+<script src="./Stonecard_files/theme-vendors.js.download"></script>
+<script src="./Stonecard_files/theme.min.js.download"></script>
+<!--<script src="https://code.jquery.com/jquery-1.9.1.min.js"></script>-->
+<script src="./Stonecard_files/jquery.min.js(1).download"></script>
+<script src="./Stonecard_files/main.js.download" type="text/javascript"></script>
+<script>
+
+	$(function($) {
+
+	// settings
+	var $slider = $('.slider'); // class or id of carousel slider
+	var $slide = 'li'; // could also use 'img' if you're not using a ul
+	var $transition_time = 1000; // 1 second
+	var $time_between_slides = 4000; // 4 seconds
+
+	function slides(){
+	return $slider.find($slide);
+	}
+
+	slides().fadeOut();
+
+	// set active classes
+	slides().first().addClass('active');
+	slides().first().fadeIn($transition_time);
+
+	// auto scroll 
+	$interval = setInterval(
+	function(){
+	var $i = $slider.find($slide + '.active').index();
+
+	slides().eq($i).removeClass('active');
+	slides().eq($i).fadeOut($transition_time);
+
+	if (slides().length == $i + 1) $i = -1; // loop to start
+
+	slides().eq($i + 1).fadeIn($transition_time);
+	slides().eq($i + 1).addClass('active');
+	}
+	, $transition_time +  $time_between_slides 
+	);
+
+});
+//$.noConflict();	
+$(document).ready(function() 
+{
+		if(localStorage.getItem("menulink") == "projects")
+		{
+//			alert("project click");
+			$('html, body').animate({
+			scrollTop: $('#projects').offset().top - 125
+			}, 'slow');
+			localStorage.removeItem("menulink");
+		}
+	
+	getslider();	
+	getoffers();
+	
+	if (localStorage.getItem("projectlist") !== null) 
+	{		
+		projectlist = JSON.parse(localStorage.getItem("projectlist"));
+		console.log('getproject',projectlist);
+		$("#content1").empty();
+			$.each(projectlist, function(i, item) 
+			{
+				var dataid = i+1;
+				if(projectlist[i].cover_image == null)
+				{
+					var coverimage = "assets/img/default_image.jpg"
+				}
+				else
+				{
+					var coverimage = "https://api.stoneandacres.com"+projectlist[i].cover_image.url;
+				}		
+
+				var projecthtml = '<div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid('+projectlist[i].id+')"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="'+coverimage+'" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">'+projectlist[i].projectname+'</h3></div>';
+				setTimeout(function(){
+				$("#content1").append(projecthtml);
+				}, 100 * i );	
+				
+			});
+	}
+	else
+	{
+		getprojects();
+	}
+	
+	
+});
+	
+	function getslider()
+{
+			$.ajax({
+			type: "GET",
+			url: "https://api.stoneandacres.com/homesliders",
+			success: function(result) {	
+			if(result[0].desktop_slider.length > 0)
+			{				
+						if (window.matchMedia("(max-width: 767px)").matches)  
+						{ 							           
+							console.log("This is a mobile device."); 
+							var mobile_slider = result[0].mobile_slider;
+							console.log("Mobile Slider", mobile_slider);
+							$(mobile_slider).each(function(index) {
+							var mediaimage = "https://api.stoneandacres.com"+mobile_slider[index].image_url.url;	
+							var mediahtml = '<li><img src="'+mediaimage+'" /></li>';
+							$("#homepage_slider").append(mediahtml);
+							});
+						} 
+						else 
+						{ 							
+							console.log("This is a tablet or desktop."); 
+							var desktop_slider = result[0].desktop_slider;
+							console.log("Desktop Slider", desktop_slider);
+							$(desktop_slider).each(function(index) {
+							var mediaimage = "https://api.stoneandacres.com"+desktop_slider[index].image_url.url;	
+							var mediahtml = '<li><img src="'+mediaimage+'" /></li>';
+							$("#homepage_slider").append(mediahtml);
+							});
+						}				
+
+			}
+			else
+			{
+					console.log("no data");
+					$("#homepage_slider").css("display","none");
+			}			
+			},
+			error: function(jqXHR, exception) {
+			console.log(jqXHR);
+			console.log(exception);
+			}
+			});
+ }
+	
+function getprojects()
+{
+	$.ajax({
+        type: "GET",
+		url: "https://api.stoneandacres.com/projects",
+        success: function(result) {	
+			localStorage.setItem("projectlist", JSON.stringify(result));			
+			console.log('projectlist', JSON.parse(localStorage.getItem("projectlist")));
+//		  console.log(result);
+			$("#content1").empty();
+			$.each(result, function(i, item) 
+			{
+				var dataid = i+1;
+				if(result[i].cover_image == null)
+				{
+					var coverimage = "assets/img/default_image.jpg"
+				}
+				else
+				{
+					var coverimage = "https://api.stoneandacres.com"+result[i].cover_image.url;
+				}		
+
+				var projecthtml = '<div class="lqd-column col-md-4 col-sm-6 col-xs-12 fade-in" style="cursor:pointer;" onclick="getid('+result[i].id+')"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="'+coverimage+'" alt="Portfolio"></figure></div><h3 class="ld-pf-title h4 font-weight-bold text-center pb-5">'+result[i].projectname+'</h3></div>';
+				setTimeout(function(){
+				$("#content1").append(projecthtml);
+				}, 1000 * i );	
+				
+			});
+         },
+         error: function(jqXHR, exception) {
+         console.log(jqXHR);
+         console.log(exception);
+         }
+         });
+ }
+	
+	function getoffers()
+{
+	$.ajax({
+        type: "GET",
+		url: "https://api.stoneandacres.com/offers",
+        success: function(result) {	
+//		  console.log(result);
+			$("#latest_offers").empty();
+			$.each(result, function(i, item) 
+			{
+				var dataid = i+1;
+				if(result[i].offer_image == null)
+				{
+					var offerimage = "assets/img/default_image.jpg"
+				}
+				else
+				{
+					var offerimage = "https://api.stoneandacres.com"+result[i].offer_image.url;
+				}
+//				console.log(offerimage);		
+
+				var offerhtml = '<div class="lqd-column col-md-4 col-sm-6 col-xs-12"><div class="ld-pf-image"><figure data-responsive-bg="true"><img src="'+offerimage+'" alt="Portfolio"></figure></div></div>	';
+				setTimeout(function(){
+				$("#latest_offers").append(offerhtml);
+				}, 1000 * i );	
+				
+			});
+         },
+         error: function(jqXHR, exception) {
+         console.log(jqXHR);
+         console.log(exception);
+         }
+         });
+ }
+	function getid(projectid)
+	{
+
+		localStorage.setItem("projectid", projectid);
+		window.location.href = "project.html";
+		localStorage.setItem("urlpage", "projects");
+	}
+</script>
+
+
+</body></html>
