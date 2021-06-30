@@ -318,7 +318,8 @@ button{
     width: 100%;
     background-image: url(/./assets/images/1.jpg);
     background-size: cover;
-    margin-top: 143px;
+    margin-top: 140px;
+    background-position: center;
 }
 .headerContent{
     height: 170px;
@@ -476,7 +477,7 @@ li{
     align-items: center;
     /* width: 100%;
     height: 115vh; */
-    height: 50vh;
+    height: 100vh;
     margin-top: 40px;
 
 }
@@ -487,7 +488,6 @@ li{
     width: 100%;
     padding: 0px;
     height: 100%;
-    display: none;
 }
 .about-content{
     width: 95%;
