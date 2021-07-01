@@ -17,6 +17,9 @@
     margin-left: 0px;
     padding: 10px;
 }
+h1{
+    color: rgb(22, 22, 22);
+}
 ul{
     list-style: none;
     display: flex;
