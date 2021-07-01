@@ -3,6 +3,7 @@
     width: 100%;
     background-image: url(/./assets/images/1.jpg);
     background-size: cover;
+    background-position: center;
 }
 .headerContent{
     height: 170px;
@@ -11,7 +12,7 @@
     display: flex;
 }
 .logo{
-    height: 150px;
+    height: 107px;
     width: 140px;
     margin-left: 30px;
     padding: 10px;
@@ -29,7 +30,7 @@ li{
     letter-spacing: 0.02em;
 }
 .imgbox{
-    width: 480px;
+    width: 30%;
 }
 .i{
     padding-left: 35px;
@@ -106,6 +107,7 @@ li{
 .project-img{
     height: 100%;
     width: 100%;
+    object-fit: contain;
 }
 .display-flex{
     display: flex;
@@ -142,13 +144,14 @@ li{
     color: #676767;
 }
 .home-padd{
-    padding: 15%;
+    padding: 11%;
 }
 .home-imgs{
     width: 100%;
     height: 100%;
     border-radius: 10px;
     margin-top: 3%;
+    object-fit: contain;
 }
 .about{
     display: flex;
