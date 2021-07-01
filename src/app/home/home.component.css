@@ -339,6 +339,7 @@ button{
     width: 130px;
     margin-left: 0;
     padding: 0;
+    object-fit: contain;
 }
 ul{
     list-style: none;
@@ -431,6 +432,7 @@ li{
 .project-img{
     height: 100%;
     width: 100%;
+    object-fit: contain;
 }
 .display-flex{
     display: flex; 
