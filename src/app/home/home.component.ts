@@ -19,12 +19,17 @@ export class HomeComponent implements OnInit {
 
     if (window.pageYOffset > 585) {
       var header = document.getElementById("headerContent")!;
-      header.setAttribute(
-        "style", "position: fixed; background-color: white; color: black; box-shadow: 0px 4px 20px 0px #dccaca;");
+      var img = document.getElementById("logo")!;
+      header.classList.add("additional");
+      header.classList.remove("headerContent-additional");
+        img.classList.add("logo-img");
     }else if (window.pageYOffset < 585) {
       var header = document.getElementById("headerContent")!;
-      header.setAttribute(
-        "style", "position: relative;");
+      var img = document.getElementById("logo")!;
+      header.classList.add("headerContent-additional");
+      header.classList.remove("additional");
+      img.classList.remove("logo-img");
+
     }
     
   }
